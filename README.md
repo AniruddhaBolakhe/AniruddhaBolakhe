@@ -45,11 +45,12 @@ I design systems that emphasize scalability, clean data workflows, and reliable 
 ![](https://github-readme-stats.vercel.app/api?username=AniruddhaBolakhe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AniruddhaBolakhe&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaBolakhe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-bolakhe-3b5090247) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anirudhb2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniruddhabolakhe2907@gmail.com) 
 
+---
 
-
-
-
+![snake gif](https://github.com/AniruddhaBolakhe/AniruddhaBolakhe/blob/output/github-snake-dark.svg)
