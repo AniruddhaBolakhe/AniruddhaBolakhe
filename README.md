@@ -1,25 +1,83 @@
-<h1 align="center">I'm Aniruddha Bolakhe</h1>
-<h3 align="center">an AI engineer with a background in Computer Science (IoT and Intelligent Systems). I work on architecting and deploying production-grade AI systems that combine deep learning, generative models, and retrieval-augmented frameworks. My approach emphasizes scalability, deterministic data flows, and rigorous engineering practices—core principles for building reliable modern AI infrastructure.</h3>
+<h1 align="center">Aniruddha Bolakhe</h1>
+<h3 align="center">
+AI Engineer specializing in deep learning, generative modeling, and retrieval-augmented systems.<br>
+Focused on building scalable, production-grade AI infrastructure.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhabolakhe&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhabolakhe" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhabolakhe" alt="aniruddhabolakhe" /></a> </p>
+## About
+I’m Aniruddha Bolakhe, an AI engineer with a background in Computer Science (IoT and Intelligent Systems).  
+I architect and deploy production-grade AI systems that integrate deep learning, generative models, and retrieval-augmented workflows.  
+My work emphasizes scalability, deterministic data engineering, and robust backend foundations.
 
-- 📫 How to reach me **AniruddhaBolakhe2907@gmail.com**
+### Areas of Focus
+- Retrieval-Augmented Generation (RAG) and optimized embedding pipelines  
+- Vector search systems using Qdrant, Pinecone, and ChromaDB  
+- Deep learning models for vision and sequence tasks (PyTorch, TensorFlow)  
+- Backend engineering with FastAPI and high-throughput pipelines  
+- Distributed task ecosystems using Redis, TaskIQ, Celery, RabbitMQ  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a3Ik0XEnd_6n0q8XZJjoezkOfp-uuBmL/view?usp=sharing](https://drive.google.com/file/d/1a3Ik0XEnd_6n0q8XZJjoezkOfp-uuBmL/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
+## Tools & Technologies
 <p align="left">
-<a href="https://twitter.com/anirudhb2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudhb2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniruddha-bolakhe-3b5090247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniruddha-bolakhe-3b5090247/" height="30" width="40" /></a>
+  <!-- AI/ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
+
+  <!-- Backend / DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+
+  <!-- Web/General Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhabolakhe&show_icons=true&locale=en&layout=compact" alt="aniruddhabolakhe" /></p>
+## GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhabolakhe&layout=compact" height="150" alt="Top Languages"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhabolakhe&show_icons=true&locale=en" alt="aniruddhabolakhe" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniruddhabolakhe&show_icons=true" height="160" alt="GitHub Stats"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhabolakhe&" alt="aniruddhabolakhe" /></p>
+---
+
+## Connect with Me
+<p align="left">
+  <a href="https://twitter.com/anirudhb2004" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         height="32" width="42" alt="Twitter"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aniruddha-bolakhe/" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="32" width="42" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:AniruddhaBolakhe2907@gmail.com" target="_blank" style="margin-right: 12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         height="32" width="42" alt="Email"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1a3Ik0XEnd_6n0q8XZJjoezkOfp-uuBmL/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
+         height="32" width="42" alt="Resume"/>
+  </a>
+</p>
