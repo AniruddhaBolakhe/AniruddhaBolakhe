@@ -7,7 +7,7 @@ Focused on building scalable, production-grade AI infrastructure.
 ---
 
 ## About
-I’m Aniruddha Bolakhe, an AI engineer with a background in Computer Science (IoT and Intelligent Systems).  
+An AI engineer with a background in Computer Science (IoT and Intelligent Systems).  
 I architect and deploy production-grade AI systems that integrate deep learning, generative models, and retrieval-augmented workflows.  
 My work emphasizes scalability, deterministic data engineering, and robust backend foundations.
 
@@ -59,25 +59,5 @@ My work emphasizes scalability, deterministic data engineering, and robust backe
 
 ---
 
-## Connect with Me
-<p align="left">
-  <a href="https://twitter.com/anirudhb2004" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-         height="32" width="42" alt="Twitter"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/aniruddha-bolakhe-3b5090247/" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="32" width="42" alt="LinkedIn"/>
-  </a>
 
-  <a href="mailto:AniruddhaBolakhe2907@gmail.com" target="_blank" style="margin-right: 12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         height="32" width="42" alt="Email"/>
-  </a>
-
-  <a href="https://drive.google.com/file/d/1a3Ik0XEnd_6n0q8XZJjoezkOfp-uuBmL/view?usp=sharing" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
-         height="32" width="42" alt="Resume"/>
-  </a>
-</p>
