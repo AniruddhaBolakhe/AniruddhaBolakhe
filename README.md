@@ -66,7 +66,7 @@ My work emphasizes scalability, deterministic data engineering, and robust backe
          height="32" width="42" alt="Twitter"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/aniruddha-bolakhe/" target="_blank" style="margin-right: 12px;">
+  <a href="https://www.linkedin.com/in/aniruddha-bolakhe-3b5090247/" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          height="32" width="42" alt="LinkedIn"/>
   </a>
