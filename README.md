@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aniruddha Bolakhe
 
-<!--
-**AniruddhaBolakhe/AniruddhaBolakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I’m Aniruddha Bolakhe, an AI engineer with a background in Computer Science (IoT and Intelligent Systems). I design and deploy production-grade AI systems that integrate deep learning, generative AI, and retrieval-augmented architectures. My work emphasizes scalability, and structured data workflows—key requirements for modern AI engineering.
 
-Here are some ideas to get you started:
+I specialize in:
+- Retrieval-Augmented Generation (RAG) and high-performance embedding pipelines  
+- Vector search architectures using Qdrant, Pinecone, ChromaDB  
+- Deep learning systems for vision and sequence modeling (TensorFlow, PyTorch)  
+- Backend engineering with FastAPI and scalable data processing stacks  
+- Asynchronous automation pipelines built with Redis, TaskIQ, Celery, and RabbitMQ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core interest lies in building AI systems that are reliable, efficient, and deployable in real-world environments. I aim to bridge advanced model design with strong engineering fundamentals to deliver AI solutions that scale and create measurable impact.
+
+---
+
+## Skills
+- AI Engineering, Deep Learning, Generative AI  
+- RAG Architecture, Vector Databases, Embedding Pipelines  
+- PyTorch, TensorFlow, Scikit-learn  
+- FastAPI, REST APIs, Microservices  
+- Redis, TaskIQ, Celery, RabbitMQ   
+---
