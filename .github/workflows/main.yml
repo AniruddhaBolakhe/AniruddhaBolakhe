@@ -1,0 +1,29 @@
+name: Generate GitHub-snake SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # daily at 02:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run snk (SVG only)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated svgs
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: update github-snake svgs"
+          add: 'dist/*.svg'
