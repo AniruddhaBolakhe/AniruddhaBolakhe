@@ -1,16 +1,10 @@
-<h1 align="center">Aniruddha Bolakhe</h1>
-<h3 align="center">
-AI Engineer specializing in deep learning, generative modeling, and retrieval-augmented systems.<br>
-Focused on building scalable, production-grade AI infrastructure.
-</h3>
 
----
 
 ## About
-An AI engineer with a background in Computer Science (IoT and Intelligent Systems).  
-I architect and deploy production-grade AI systems that integrate deep learning, generative models, and retrieval-augmented workflows.  
-My work emphasizes scalability, deterministic data engineering, and robust backend foundations.
+AI engineer with a foundation in Computer Science (IoT and Intelligent Systems).
+My work focuses on building practical, production-oriented AI systems where deep learning, retrieval-augmented methods, and structured data pipelines come together to solve real-world problems.
 
+I design systems that emphasize scalability, clean data workflows, and reliable backend integration, drawing from hands-on experience in vector search, model development, and asynchronous processing frameworks.
 ### Areas of Focus
 - Retrieval-Augmented Generation (RAG) and optimized embedding pipelines  
 - Vector search systems using Qdrant, Pinecone, and ChromaDB  
